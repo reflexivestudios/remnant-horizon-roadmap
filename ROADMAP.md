@@ -3,7 +3,7 @@
 My ultimate vision for Remnant Horizon is to evolve into a full-fledged space exploration game, offering an immersive experience with a strong sense of scale, lively star systems, and refined gameplay mechanics.
 
 ### What's Complete ✅
-- ✅ **Custom Newtonian-lite Physics Engine** with thrust, drag, inertia, and collision handling
+- ✅ **Custom Physics Engine** with thrust, drag, inertia, and collision handling
 - ✅ **Single Source of Truth State Management** with persistence, missions, reputation, and cargo
 - ✅ **Main Menu** - Full menu with starting new game, loading save and game settings.
 - ✅ **Pause Menu** - Full pause menu with saving, loading, settings, exit to main menu, etc.
