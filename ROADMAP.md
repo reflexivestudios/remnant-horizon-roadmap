@@ -39,31 +39,31 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 - ✅ **UI & Inventory Systems** - Refined inventory UI with Commander Status
 
 ### What's In Progress (WIP) 🔄
-- WIP **Event-Driven Communication System** using prefixed DOM events
-- WIP **Player Guide (Pilot's Handbook)** - Implemented base guide, but will keep expanding as complexities grow
-- WIP **Save System** . Currently only 1 save and load slot. Working on making more with 3 localStorage slots and auto-save functionality
-- WIP **Procedural Universe Generation** with textured stars and noise-based planet continents
-- WIP **Core Systems Loop** with mission tracking, economy drift
-- WIP **Refined Ship-to-Ship Combat** - Implement inertia-based physics for visceral, skill-based combat
-- WIP **Walkable Ship Interiors** - Partially detailed interiors with interactable elements. Resolving some bugs around this.
-- WIP **Full Atmospheric Entry & Seamless Planet Landing** - Currently able to land on planets and get out of ship, collect resources. However, needs Realistic gravity and atmospheric drag effects
-- WIP **Ground Combat & Interaction** - planetary resource interaction implemented and working, no ground combat yet.
-- WIP **Ship Flight Model & Thrust Balancing** - Refined handling with realistic inertia. Feeling like a space jet, but still refining over time.
-- WIP **Ship Progression System** - tiered upgrades. Works on most upgrades, haven't tested all.
-- WIP **Difficulty Settings** - Adjustable game difficulty scaling enemy behavior
-- WIP **Vast Procedural Universe** - Fully generated star systems with unique planets
-- WIP **True Space Feel/Scale** - Massive stars, proper spatial distances. Decent, but looking to scale further.
-- WIP **Factions & Territories** - Multiple dynamic factions with controlled systems
-- WIP **Points of Interest (POIs)** - Procedurally generated surface POIs. I have POIs and they work, but want to expand and make more meaningful.
-- WIP **Simple Economy System** - Dynamic supply/demand influenced pricing
-- WIP **Diverse Reward-Based Mission System** - Trade runs, combat bounties, mining contracts. Basic ones almost done.
-- WIP **Mission Guidance & Navigation** - Clear objectives with navigation assistance
-- WIP **Comprehensive Ship Upgrades** - Extensive upgrade trees for all ship systems
-- WIP **Mining Gameplay** - Asteroid mining mechanics and dedicated ships. Planet resource deposit "mining" implemented. Very early stages.
-- WIP **Procedural Audio System** using Web Audio API - all sounds synthesized in real-time
-- WIP **Graphics & Rendering Enhancements** - Advanced techniques, shaders, post-processing
+- (WIP) **Event-Driven Communication System** using prefixed DOM events
+- (WIP) **Player Guide (Pilot's Handbook)** - Implemented base guide, but will keep expanding as complexities grow
+- (WIP) **Save System** . Currently only 1 save and load slot. Working on making more with 3 localStorage slots and auto-save functionality
+- (WIP) **Procedural Universe Generation** with textured stars and noise-based planet continents
+- (WIP) **Core Systems Loop** with mission tracking, economy drift
+- (WIP) **Refined Ship-to-Ship Combat** - Implement inertia-based physics for visceral, skill-based combat
+- (WIP) **Walkable Ship Interiors** - Partially detailed interiors with interactable elements. Resolving some bugs around this.
+- (WIP) **Full Atmospheric Entry & Seamless Planet Landing** - Currently able to land on planets and get out of ship, collect resources. However, needs Realistic gravity and atmospheric drag effects
+- (WIP) **Ground Combat & Interaction** - planetary resource interaction implemented and working, no ground combat yet.
+- (WIP) **Ship Flight Model & Thrust Balancing** - Refined handling with realistic inertia. Feeling like a space jet, but still refining over time.
+- (WIP) **Ship Progression System** - tiered upgrades. Works on most upgrades, haven't tested all.
+- (WIP) **Difficulty Settings** - Adjustable game difficulty scaling enemy behavior
+- (WIP) **True Space Feel/Scale** - Massive stars, proper spatial distances. Decent, but looking to scale further.
+- (WIP) **Factions & Territories** - Multiple dynamic factions with controlled systems
+- (WIP) **Points of Interest (POIs)** - Procedurally generated surface POIs. I have POIs and they work, but want to expand and make more meaningful.
+- (WIP) **Simple Economy System** - Dynamic supply/demand influenced pricing
+- (WIP) **Diverse Reward-Based Mission System** - Trade runs, combat bounties, mining contracts. Basic ones almost done.
+- (WIP) **Mission Guidance & Navigation** - Clear objectives with navigation assistance
+- (WIP) **Comprehensive Ship Upgrades** - Extensive upgrade trees for all ship systems
+- (WIP) **Mining Gameplay** - Asteroid mining mechanics and dedicated ships. Planet resource deposit "mining" implemented. Very early stages.
+- (WIP) **Procedural Audio System** using Web Audio API - all sounds synthesized in real-time
+- (WIP) **Graphics & Rendering Enhancements** - Advanced techniques, shaders, post-processing
 
 ### What's Not Started Yet ❌
+- ❌ **Vast Procedural Universe** - Fully generated star systems with unique planets. Currently have 4 star systems for generation, economy and mission testing.
 - ❌ **Environmental Hazards & Fuel Management** - Radiation zones, temperature extremes, nebulae, gravitational anomalies
 - ❌ **Multiple Slot Save System** - Expanded save functionality with comprehensive persistence
 - ❌ **Dynamic & Living Star Systems** - Active NPC ships, trade convoys, pirate fleets
