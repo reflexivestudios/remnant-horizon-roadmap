@@ -34,14 +34,6 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 - ✅ **Procedural Terrain Generation** with bilinear height sampling and POIs
 - ✅ **Walkable Planet Surfaces** - ability to get out of ship and walk around on planets freely.
 
-### Technical:
-- ✅ **Logarithmic Depth Buffer** for proper space scale rendering
-- ✅ **Modular Architecture** with clear separation of concerns
-- ✅ **Cross-module Communication** via custom DOM events
-- ✅ **Frame-rate Independent Physics** using delta time integration
-- ✅ **Deterministic Procedural Generation** using seeded RNG
-- ✅ **Single Source of Truth State Management** with persistence, missions, reputation, and cargo
-
 ### What's In Progress (WIP) 🔄
 - (WIP) **Event-Driven Communication System** using prefixed DOM events
 - (WIP) **Player Guide (Pilot's Handbook)** - Implemented base guide, but will keep expanding as complexities grow
