@@ -15,7 +15,7 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 - ✅ **Camera Systems** - Dual first-person cockpit and third-person "jet fighter" cameras
 - ✅ **Weighted Space Station Missions** - Traders Guild space stations will offer more cargo delivery missions, etc...
 - ✅ **Engine and Warp Drive fuel** - Separate engine and warp fuel types that can be refilled at space stations. Balanced for fair pricing for trading & shuttle missions
-- ✅ **Basic Missions** - Currently have cargo delivery, passenger shuttle and bounty hunter missions working & rewarding credits. Each are in tiers and offer a randomized amount within the respective tier.
+- ✅ **Basic Missions** - Currently have cargo delivery, mining contracts, passenger shuttle and bounty hunter missions working & rewarding credits. Each are in tiers and offer a randomized amount within the respective tier.
 - ✅ **Cargo Quantity Indicators** - Accurate display for buying/selling items
 - ✅ **Active Salvaging / Resource Harvesting** - Tactile mechanics for resource gathering
 - ✅ **Currency & Trading** - Full in-game currency and operational markets
