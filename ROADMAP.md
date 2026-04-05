@@ -7,7 +7,9 @@ My ultimate vision for Remnant Horizon is to evolve into a full-fledged space ex
 - ✅ **Main Menu** - Full menu with starting new game, loading save and game settings.
 - ✅ **Pause Menu** - Full pause menu with saving, loading, settings, exit to main menu, etc.
 - ✅ **Simple Tutorial System** - The Pilot's Handbook guide (F1 or starting new game)
+- ✅ **Username Profile System** - Players can now enter their username when starting a new game which shows up in their chat messages and save slots
 - ✅ **Multiple Save/Load Slot System** - 3 Save/Load slots with quick save funtionality saving to it's own slot
+- ✅ **Chat System (Comm Feed)** - Players can press enter to start typing their message and press enter to send their message in a scrollable chat window.
 - ✅ **Space Station System** with trade markets, ship upgrades, dynamic mission generations
 - ✅ **Station UI Scalability** - Large inventory support with scrolling and filtering
 - ✅ **Advanced HUD** - Dynamic HUD with rotating minimap, radar + multiple zoom levels, chat/notification feed, star system coordinates/info, target info and ship status indicators
